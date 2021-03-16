@@ -3,7 +3,7 @@ hastebin
 
 ## Overview
 
-A script for fetching or posting text pastes on https://hastebin.com.
+A script for fetching or posting text pastes on https://oden.kurisu.gq.
 Fork to upload to selfhosted server
 ## Usage & Options
 
