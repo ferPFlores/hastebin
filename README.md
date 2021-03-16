@@ -4,7 +4,7 @@ hastebin
 ## Overview
 
 A script for fetching or posting text pastes on https://hastebin.com.
-
+Fork to upload to selfhosted server
 ## Usage & Options
 
     usage: hastebin [-h] [--clip-command clip_command] [--clipboard] [id]
