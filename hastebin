@@ -12,8 +12,8 @@ from select import select
 import argparse
 from subprocess import Popen
 
-url = os.environ.get("HASTEBIN_SERVER_URL", "https://hastebin.com")
-timeout = int(os.environ.get("HASTEBIN_SERVER_TIMEOUT", 5))
+url = os.environ.get("HASTEBIN_SERVER_URL", "https://oden.kurisu.gq")
+timeout = int(os.environ.get("HASTEBIN_SERVER_TIMEOUT", 10))
 
 def has_data(fd):
     """Immediately timed out select poll"""
